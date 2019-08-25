@@ -4,6 +4,7 @@
 	height: 380px;
 	overflow: hidden;
 	z-index: 99;  
+	position: relative;
 }
 
 .iframeElement {
@@ -15,4 +16,5 @@
   	left: 0;
   	overflow: hidden;
   	z-index: 50; 
+  	position: absolute;
 }
