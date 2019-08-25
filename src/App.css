@@ -35,5 +35,6 @@
 
 .Playlist {
   position: relative;
+  text-align: center; 
   top: -28em;
 }

@@ -12,7 +12,7 @@ function App() {
               <Playlist className='playlistElement' /> 
       </div> 
       <div className='Logo'> 
-        hhear.me/ansh687
+        hhear.me
       </div> 
     </div> 
   );
