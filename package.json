@@ -2,7 +2,6 @@
   "name": "hearme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ansh687.github.io/listen/",
   "main": "index.js",
   "dependencies": {
     "react": "^16.9.0",
